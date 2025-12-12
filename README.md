@@ -37,8 +37,3 @@ An interactive memory-based game built with HTML, CSS, and JavaScript.
 - **LinkedIn:** https://linkedin.com/in/patilronit  
 - **GitHub:** https://github.com/RonitPatil2005  
 
----
-
-
-## 📄 License
-This project is open-source and available under the **MIT License**.
